@@ -1,0 +1,5 @@
+Usar Git es, literalmente, el seguro de vida de cualquier proyecto de software. No se trata solo de "guardar" el código, sino de tener el control absoluto de su evolución. Es fundamental por tres razones:
+ Tener una máquina del tiempo: El software se rompe todo el tiempo mientras experimentas. Con Git, si metes la pata con un código, no entras en pánico; simplemente regresas al último commit que funcionaba en un segundo. Cero drama, cero carpetas llamadas ⁠proyecto_final_final_este_si.zip⁠.
+ Trabajar en equipo sin matarse: Permite que varias personas editen el mismo archivo a la vez usando branches (ramas). Cada quien trabaja en su mundo y luego Git nos ayuda a fusionar todo de forma ordenada. Sin esto, la colaboración sería un caos de archivos sobreescritos.
+ Saber el "porqué" de las cosas: Funciona como una bitácora. Si meses después ves un código raro y te preguntas "¿quién hizo esto y por qué?", el historial te da el nombre, la fecha y el mensaje que explica la razón de ese cambio.
+En resumen: Trabajar sin Git es programar con miedo. Usarlo te da la libertad de experimentar, colaborar y avanzar sobre seguro.
